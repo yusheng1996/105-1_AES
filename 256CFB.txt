@@ -1,0 +1,87 @@
+Please Enter The Plaintext : 
+Please Choose the Length of Key (128 / 256) bits : 
+Please Choose the Operation Mode (CBC / CFB / CFB8) : 01. 
+=========ENCRYPTING=========
+
+It takes 321,057,017	 nanoseconds.
+    
+=========DECRYPTING=========
+
+It takes 1,103,736	 nanoseconds.
+02. 
+=========ENCRYPTING=========
+
+It takes 448,051	 nanoseconds.
+    
+=========DECRYPTING=========
+
+It takes 214,918	 nanoseconds.
+03. 
+=========ENCRYPTING=========
+
+It takes 378,840	 nanoseconds.
+    
+=========DECRYPTING=========
+
+It takes 193,393	 nanoseconds.
+04. 
+=========ENCRYPTING=========
+
+It takes 301,018	 nanoseconds.
+    
+=========DECRYPTING=========
+
+It takes 165,577	 nanoseconds.
+05. 
+=========ENCRYPTING=========
+
+It takes 305,655	 nanoseconds.
+    
+=========DECRYPTING=========
+
+It takes 177,167	 nanoseconds.
+06. 
+=========ENCRYPTING=========
+
+It takes 294,064	 nanoseconds.
+    
+=========DECRYPTING=========
+
+It takes 186,108	 nanoseconds.
+07. 
+=========ENCRYPTING=========
+
+It takes 314,265	 nanoseconds.
+    
+=========DECRYPTING=========
+
+It takes 171,207	 nanoseconds.
+08. 
+=========ENCRYPTING=========
+
+It takes 356,984	 nanoseconds.
+    
+=========DECRYPTING=========
+
+It takes 620,251	 nanoseconds.
+09. 
+=========ENCRYPTING=========
+
+It takes 334,797	 nanoseconds.
+    
+=========DECRYPTING=========
+
+It takes 202,997	 nanoseconds.
+10. 
+=========ENCRYPTING=========
+
+It takes 293,734	 nanoseconds.
+    
+=========DECRYPTING=========
+
+It takes 224,191	 nanoseconds.
+
+
+ Average of ENCRYPTING Time 324,084,425	 nanoseconds.
+
+  Average of DECRYPTING Time 3,259,545	 nanoseconds.
